@@ -9,41 +9,61 @@
 ## 🚀 Current Focus
 
 Currently working on **Smart Energy Distributor**, a system designed for:
-- energy monitoring
-- smart load control
-- sensor-based automation
-- future ESP32 + MQTT real-time integration
+- energy monitoring  
+- smart load control  
+- sensor-based automation  
+- future ESP32 + MQTT real-time integration  
 
-👉 **Live demo:** [Smart Energy Dashboard](https://fircho7.github.io/Smart_Energy_Distributor_Server/)
+👉 **Live demo:**  
+[Smart Energy Dashboard](https://fircho7.github.io/Smart_Energy_Distributor_Server/)
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming
-C/C++ · C# · Java · MATLAB · TypeScript
+### 💻 Programming
+C/C++ · C# · Java · MATLAB · TypeScript  
 
-### Embedded & Hardware
-Arduino · ESP32 · Sensors ·  Control circuits
+### 🔌 Embedded & Hardware
+Arduino · ESP32 · Sensors · Relays · LCD displays · Pumps · Motors · Control circuits  
 
-### Tools
-Git · GitHub · Linux · MATLAB/Simulink · AI-assisted development
+### 📡 Communication
+MQTT (planned)
+
+### ⚙️ Tools
+Git · GitHub · Linux · MATLAB/Simulink · AI-assisted development  
 
 ---
 
-## 🔧 Featured Projects
-
-### ⚡ Smart Energy Distributor
-Angular dashboard for monitoring and controlling energy consumers, prepared for ESP32 and MQTT integration.
+## 🔧 Projects
 
 ### 🌡 Smart Temperature Control System
-Arduino-based temperature monitoring and control system with automatic/manual modes, LCD feedback and relay-based fan control.
+> Arduino-based automatic temperature regulation system
+
+- 🌡 Temperature sensor monitoring  
+- 🔄 Automatic & manual control modes  
+- 🌀 Fan control via relay  
+- 📟 Real-time feedback on LCD  
+
+---
 
 ### 💧 Smart Water Level Control System
-Arduino-based water level control system using a pump, sensor, potentiometer, LCD and servo-based valve mechanism.
+> Automated water management system using Arduino
 
-### 📊 Dynamic System Identification using MATLAB
-Second-order system modeling using experimental data, chirp signals, regression and model validation methods.
+- 🚰 Water level sensor integration  
+- 🔁 Pump speed control (potentiometer)  
+- 🤖 Servo-based valve system  
+- ⚠️ Safety logic for overflow protection  
+
+---
+
+### 📊 Dynamic System Identification
+> Modeling and analysis of dynamic systems using MATLAB
+
+- 📉 Data processing & noise filtering  
+- 📡 Chirp signal analysis  
+- 🧠 System modeling (ARMAX, OE, N4SID)  
+- 📈 Parameter estimation & validation  
 
 ---
 
@@ -52,7 +72,7 @@ Second-order system modeling using experimental data, chirp signals, regression 
 **Technical University of Cluj-Napoca**  
 B.E. Automation Engineering  
 Faculty of Automation and Computer Science  
-2023 – Present
+2023 – Present  
 
 ---
 
