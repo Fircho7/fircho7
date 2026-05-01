@@ -13,6 +13,7 @@ Currently working on **Smart Energy Distributor**, a system designed for:
 - smart load control
 - sensor-based automation
 - future ESP32 + MQTT real-time integration
+👉 **Live demo:** [Smart Energy Dashboard](https://fircho7.github.io/Smart_Energy_Distributor_Server/)
 
 ---
 
