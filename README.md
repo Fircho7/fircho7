@@ -57,7 +57,8 @@ https://fircho7.github.io/Smart_Energy_Distributor_Server/
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=fircho7&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fircho7&show_icons=true&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fircho7&layout=compact&theme=tokyonight)
 
 ---
 
