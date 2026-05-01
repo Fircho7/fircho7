@@ -1,68 +1,59 @@
 # 👋 Hi, I'm Fircho
 
-🚀 Passionate about **Embedded Systems, IoT and Software Development**  
-⚡ Currently building a real-world **Smart Energy Distributor system**  
-🎯 Focused on combining **hardware + modern web apps**
+🎓 Automation Engineering student at the Technical University of Cluj-Napoca  
+⚙️ Passionate about embedded systems, automation, control systems and IoT  
+🔧 I enjoy building practical hardware + software projects that solve real problems  
 
 ---
 
-## 🚀 Current Project
+## 🚀 Current Focus
 
-### 🔧 Smart Energy Distributor
-
-A full system designed for real-time energy control and monitoring:
-
-- ⚡ Load management (lamp, motor, pump, heater)
-- 📊 Angular dashboard (interactive UI)
-- 🔌 ESP32 integration (in progress)
-- 📡 MQTT communication (planned)
-- 🧠 Smart prioritization logic
-
-👉 **Live demo:**  
-https://fircho7.github.io/Smart_Energy_Distributor_Server/
+Currently working on **Smart Energy Distributor**, a system designed for:
+- energy monitoring
+- smart load control
+- sensor-based automation
+- future ESP32 + MQTT real-time integration
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Programming
+C/C++ · C# · Java · MATLAB · TypeScript
 
-### 🔌 Hardware
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+### Embedded & Hardware
+Arduino · ESP32 · Sensors ·  Control circuits
 
-### 📡 Communication
-![MQTT](https://img.shields.io/badge/MQTT-orange?style=for-the-badge)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![AI](https://img.shields.io/badge/AI-Tools-purple?style=for-the-badge)
+### Tools
+Git · GitHub · Linux · MATLAB/Simulink · AI-assisted development
 
 ---
 
-## 🧠 What I'm Learning
+## 🔧 Featured Projects
 
-- Embedded systems & microcontrollers  
-- Real-time data communication (MQTT)  
-- Hardware + software integration  
-- Automation & control logic  
+### ⚡ Smart Energy Distributor
+Angular dashboard for monitoring and controlling energy consumers, prepared for ESP32 and MQTT integration.
+
+### 🌡 Smart Temperature Control System
+Arduino-based temperature monitoring and control system with automatic/manual modes, LCD feedback and relay-based fan control.
+
+### 💧 Smart Water Level Control System
+Arduino-based water level control system using a pump, sensor, potentiometer, LCD and servo-based valve mechanism.
+
+### 📊 Dynamic System Identification using MATLAB
+Second-order system modeling using experimental data, chirp signals, regression and model validation methods.
 
 ---
 
-## 🎯 Goals
+## 📚 Education
 
-- Build a fully functional real-time energy management system  
-- Connect dashboard to real hardware (ESP32)  
-- Expand into a complete IoT solution  
+**Technical University of Cluj-Napoca**  
+B.E. Automation Engineering  
+Faculty of Automation and Computer Science  
+2023 – Present
 
 ---
 
-## 📫 Contact
+## 🎯 Interests
 
-- GitHub: https://github.com/fircho7
+Embedded systems · Automation · Control Engineering · IoT · Real-time monitoring · Smart systems
