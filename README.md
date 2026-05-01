@@ -25,7 +25,7 @@ Currently working on **Smart Energy Distributor**, a system designed for:
 C/C++ · C# · Java · MATLAB · TypeScript  
 
 ### 🔌 Embedded & Hardware
-Arduino · ESP32 · Sensors · Relays · LCD displays · Pumps · Motors · Control circuits  
+Arduino · ESP32 · Sensors · Control circuits  
 
 ### 📡 Communication
 MQTT (planned)
