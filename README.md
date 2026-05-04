@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fircho
 
 🎓 Automation Engineering student at the Technical University of Cluj-Napoca  
-⚙️ Passionate about embedded systems, automation, control systems and IoT  
+⚙️ Passionate about embedded systems, automation and control systems
 🔧 I enjoy building practical hardware + software projects that solve real problems  
 
 ---
@@ -78,4 +78,4 @@ Faculty of Automation and Computer Science
 
 ## 🎯 Interests
 
-Embedded systems · Automation · Control Engineering · IoT · Real-time monitoring · Smart systems
+Embedded systems · Automation · Control Engineering · Real-time monitoring · Smart systems
